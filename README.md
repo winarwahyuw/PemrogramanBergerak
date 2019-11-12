@@ -16,7 +16,6 @@ Intent App
 ![MyIntent8](https://user-images.githubusercontent.com/54837901/68137540-bed03880-ff59-11e9-96b5-3849eb21281d.jpeg)
 
 
-
 MyViewAndViews
 ![MyViewAndViews](https://user-images.githubusercontent.com/54837901/68137573-c859a080-ff59-11e9-9c35-b55f9b3ce20e.jpeg)
 ![MyViewAndViews Donasi](https://user-images.githubusercontent.com/54837901/68137865-3e5e0780-ff5a-11e9-954d-a510f2a8093f.jpeg)
@@ -24,3 +23,12 @@ MyViewAndViews
 
 RecylcerView
 ![RecyclerView](https://user-images.githubusercontent.com/54837901/68137930-546bc800-ff5a-11e9-86ff-b5b167649966.jpeg)
+
+
+
+UTS
+
+![uts3](https://user-images.githubusercontent.com/54837901/68652789-d19bcc00-055c-11ea-96ae-f76b838ea75a.jpeg)
+![uts4](https://user-images.githubusercontent.com/54837901/68652791-d19bcc00-055c-11ea-999f-14260087529e.jpeg)
+![uts1](https://user-images.githubusercontent.com/54837901/68652792-d19bcc00-055c-11ea-81ff-284a72f3cea0.jpeg)
+![uts2](https://user-images.githubusercontent.com/54837901/68652793-d2346280-055c-11ea-8a4f-267515d893be.jpeg)
