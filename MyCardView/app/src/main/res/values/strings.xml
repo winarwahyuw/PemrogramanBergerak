@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCardView</string>
+    <string name="item_name">Nama BT21</string>
+    <string name="item_detail">Detail</string>
+    <string name="nameCardView">Name CardView</string>
+    <string name="detailCardView">Detail CardView</string>
+
+</resources>
