@@ -1,5 +1,5 @@
 # PemrogramanBergerak
-baru lur
+
 
 First Exercise
 ![MyFirstExercise](https://user-images.githubusercontent.com/54837901/68137490-a8c27800-ff59-11e9-9667-789947c1f3c9.jpeg)
