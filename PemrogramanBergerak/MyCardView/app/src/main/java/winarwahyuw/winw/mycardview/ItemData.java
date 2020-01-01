@@ -12,12 +12,9 @@ public class ItemData {
             4,
             5,
             6,
-            7,
-            8,
-            9
+            7
     };
     private static int[] itemImages={
-            R.drawable.iconbt21,
             R.drawable.in_van,
             R.drawable.in_chimmy,
             R.drawable.in_cooky,
@@ -25,12 +22,10 @@ public class ItemData {
             R.drawable.in_mang,
             R.drawable.in_rj,
             R.drawable.in_shooky,
-            R.drawable.in_tata,
-            R.drawable.bts
+            R.drawable.in_tata
     };
 
     private static String[] itemNames={
-            "BT21 by BTS",
             "Van by BTS",
             "Chimmy by Jimin",
             "Cooky by Jungkook",
@@ -38,12 +33,10 @@ public class ItemData {
             "Mang by JHope",
             "RJ by Jin",
             "Shooky by Suga",
-            "Tata by Taehyung",
-            "About BTS"
+            "Tata by Taehyung"
     };
 
     private static String[] itemDetails={
-            "Character made by BTS",
             "Guardian space robot",
             "Innocent, \"work hard, play hard\"",
             "Unexpectedly muscular, heart buttocks",
@@ -52,12 +45,10 @@ public class ItemData {
             "Mystery dancer",
             "Kind, loving, foodie",
             "Mini prankster",
-            "Off-the-wall, curious soul, prince",
-            "Go-International BoyGrou, BT21 Creator"
+            "Off-the-wall, curious soul, prince"
     };
 
     private static int[] CardViewImages={
-            R.drawable.bt21_group,
             R.drawable.a_van,
             R.drawable.a_chimmy,
             R.drawable.a_cooky,
@@ -65,12 +56,10 @@ public class ItemData {
             R.drawable.a_mang,
             R.drawable.a_rj,
             R.drawable.a_shooky,
-            R.drawable.a_tata,
-            R.drawable.bts2
+            R.drawable.a_tata
     };
 //
     private static String[] CardViewDetail={
-            "BT21 Character created by BTS that have an amazing personality each Character. They are Van who a vehicle, Chimmy, Cooky, Mang, Koya, RJ, Tata, and Shooky ",
             "VAN who seems to know everything about the world, protects BT21 24/7. #guardian #vehicle #transformation #robot",
             "CHIMMY enjoys wearing a yellow hoodie, and is born with a passion to work hard on everything, no matter what. #passion #workhard #playhard #harmonica #yellowhoodie",
             "COOKY hopes to break out of the stereotypes from the cherubic appearance, and become tough. #unbalanced #eyebrows #heartbutt #imaginarymuscles",
@@ -78,8 +67,7 @@ public class ItemData {
             "When dancing, MANG is cooler than ever. Veiled under mask, MANG's true identity remains a secret. #Heartshapednose #mask #mystery #BestDancer",
             "RJ loves to both cook and eat. RJ's fluffy fur and warm heart makes everyone feel they're at home. #greetings #gentlesoul #parka #omnomnom",
             "Tiny SHOOKY loves jokes, especially ones on friends. Milk is what SHOOKY hates the most. #fun #manyfaces #mini #CrunchySquad",
-            "Prince TATA from planet BT, has a super stretchy body as well as super natural powers. #PlanetBT #offthewall #superpowers #Prince",
-            "BTS from Bighit, a boygroup who have so much fans over the world. They collaborated with LINE to create BT21, Character that used in LINE. They are Rap Monster, Jimin, Jungkook, Jhope, Jin, Suga, and Taehyung"
+            "Prince TATA from planet BT, has a super stretchy body as well as super natural powers. #PlanetBT #offthewall #superpowers #Prince"
     };
 
     static ArrayList<DataSet> getListData() {

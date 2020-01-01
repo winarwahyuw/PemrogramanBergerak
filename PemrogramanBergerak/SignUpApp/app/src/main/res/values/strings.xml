@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">2A Studio adalah tempat untuk belajar pemrograman perangkat bergerak baik Android,
+        IOS, maupun Windows Phone. Tidak perlu khawatir jika Anda belum memiliki basic pemrograman sebelumnya. Sebab
+        disini akan diajari from Zero to Hero dalam membuat aplikasi berbasis mobile. Segera daftarkan diri Anda,
+        minggu depan harga sudah berbeda.</string>
+</resources>
