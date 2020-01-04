@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">MyIntentApp</string>
-    <string name="data_diterima">Data Diterima</string>
-    <string name="pindah_activity">pindah activity</string>
-    <string name="pindah_activity_dengan_data">Pindah Activity dengan Data</string>
-    <string name="ke_halaman_kedua">Ke Halaman Kedua</string>
-</resources>
