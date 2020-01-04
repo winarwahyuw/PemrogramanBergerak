@@ -13,6 +13,14 @@
 ![RecyclerView](https://user-images.githubusercontent.com/54837901/68656975-61de0f00-0565-11ea-8bdf-6582f9984485.jpeg)
 ![exercise](https://user-images.githubusercontent.com/54837901/68656985-630f3c00-0565-11ea-82f5-4ccbe9b8d243.jpeg)
 ![uts1](https://user-images.githubusercontent.com/54837901/68656977-61de0f00-0565-11ea-845f-8c0dddc443f8.jpeg)
+
+
+![1](https://user-images.githubusercontent.com/54837901/71726333-5cb48680-2e69-11ea-83d4-3c5c90453eab.jpeg)
+![2](https://user-images.githubusercontent.com/54837901/71726334-5cb48680-2e69-11ea-9d56-09506c151a04.jpeg)
+![3](https://user-images.githubusercontent.com/54837901/71726335-5d4d1d00-2e69-11ea-9cc9-699fa42a98e4.jpeg)
+![4](https://user-images.githubusercontent.com/54837901/71726336-5d4d1d00-2e69-11ea-90e8-2be493a180bd.jpeg)
+![5](https://user-images.githubusercontent.com/54837901/71726338-5de5b380-2e69-11ea-8135-7cab19e54b22.jpeg)
+
 ![uts2](https://user-images.githubusercontent.com/54837901/68656980-6276a580-0565-11ea-87e5-4f8194645d31.jpeg)
 ![uts3](https://user-images.githubusercontent.com/54837901/68656982-6276a580-0565-11ea-93fc-a7a5908d411f.jpeg)
 ![uts4](https://user-images.githubusercontent.com/54837901/68656984-630f3c00-0565-11ea-8e62-447342cf7a38.jpeg)
@@ -25,13 +33,13 @@
 ![3](https://user-images.githubusercontent.com/54837901/71641170-d746a000-2cc9-11ea-9e31-8ecbce91c7b0.png)
 ![4](https://user-images.githubusercontent.com/54837901/71641171-d746a000-2cc9-11ea-9812-91733f62f78a.png)
 
-//MyBackgroundThread
+
 ![2](https://user-images.githubusercontent.com/54837901/71725391-4e18a000-2e66-11ea-94f0-00c2f2d42a72.jpeg)
 ![1](https://user-images.githubusercontent.com/54837901/71725392-4eb13680-2e66-11ea-8174-b59b2fca4a7a.jpeg)
 
 
 
-//MyLoader
+
 ![2](https://user-images.githubusercontent.com/54837901/71725405-57a20800-2e66-11ea-8435-e84e4e25135a.jpeg)
 ![3](https://user-images.githubusercontent.com/54837901/71725407-57a20800-2e66-11ea-8356-b5e82958f146.jpeg)
 ![4](https://user-images.githubusercontent.com/54837901/71725409-583a9e80-2e66-11ea-8f60-99a900a79900.jpeg)
